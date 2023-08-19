@@ -96,4 +96,4 @@ const canvasHeight = canvas.height;
 const inputSeed = generateRandomSeed(20);
 console.log(inputSeed);
 
-generateImage("59405949266029039177", canvasWidth, canvasHeight);
+generateImage(inputSeed, canvasWidth, canvasHeight);
